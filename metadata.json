@@ -1,0 +1,7 @@
+{
+  "name": "L'Atelier Studio - Ready to Wear & Tailored Apparel",
+  "description": "Contemporary clothing boutique featuring timeless tailored outerwear, luxury knitwear, relaxed trousers, and conscious ready-to-wear essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
